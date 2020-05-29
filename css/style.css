@@ -1,0 +1,37 @@
+body {
+    background: rgb(161, 168, 167);
+    margin-left: 30px;
+    margin-right: 800px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1 {
+    color: blue;
+    font-family: fantasy;
+}
+
+h2 {
+    color: crimson;
+}
+
+footer{
+    margin-bottom: 30px;
+    
+}
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+
+.cont_padrao{
+   width: 30px;
+}
+
+footer {
+    margin-left: 700px;
+    margin-bottom: 30px;
+}
